@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     cards.forEach(card => {
       const rect = card.getBoundingClientRect();
-      if (rect.top < windowHeight * 0.9) {  // déclenche un peu avant le bas de la fenêtre
+      if (rect.top < windowHeight * 0.9) { 
         card.classList.add('visible');
       }
     });
@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
   window.addEventListener('scroll', checkVisibility);
   window.addEventListener('resize', checkVisibility);
 
-  // On lance une première fois au chargement
   checkVisibility();
 });
 
