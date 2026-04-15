@@ -4,7 +4,7 @@ Bienvenue sur le dépôt de mon tout premier portfolio ! Ce projet représente m
 
 ## ⚠️ Note : Projet Archivé
 Ce portfolio n'est plus ma vitrine actuelle. Il a été remplacé par une version beaucoup plus performante et dynamique développée avec **React**. 
-👉 **[[Lien vers ton nouveau portfolio React]](https://calvin-ramjeeawon.netlify.app/)**
+👉 **https://calvin-ramjeeawon.netlify.app/**
 
 ## 📝 Pourquoi garder ce projet ?
 Il est important pour moi de conserver une trace de ma progression. Ce site m'a permis de valider des compétences fondamentales :
